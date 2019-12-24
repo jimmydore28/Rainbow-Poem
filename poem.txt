@@ -5,6 +5,7 @@ Pink
 Organe
 Blue
 Green
+Indigo
 Unicorn
 Yellow
 Red
